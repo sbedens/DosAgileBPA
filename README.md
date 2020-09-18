@@ -12,33 +12,33 @@ An example application implementing an automated phone line using Twilio.
 
 ## USE CASE SCENARO: Leveraging the technology; CRM, Knowledge Management, Telephony, & Computer Telephony Integration (CTI).
 1. Interactive Voice Response (IVR)<br>
-IVR status request inquiry: Customer wants to know where they are in the process 
-Customer enters their case number in the IVR
-Ability to transfer to Agent customers
-Automatic call back feature 
-Natural Language Processing
+IVR status request inquiry: Customer wants to know where they are in the process <br>
+Customer enters their case number in the IVR<br>
+Ability to transfer to Agent customers<br>
+Automatic call back feature <br>
+Natural Language Processing<br>
 
-2. Agent - Support Timely Response to Customer Questions
-Answers the phone
-Records the customer demographics and question in the CRM tool 
-Searches the Knowledge Base to find an article to answer the customers question
-Attaches the article to the record
-Emails the article to the customer
-Reviews real time data 
-Performs caller authentication
-Review dashboard/analytics information for telephony & CRM
-Repeat caller: show contact record associated with incoming customer contact
-Transfer/escalate a call
+2. Agent - Support Timely Response to Customer Questions<br>
+Answers the phone<br>
+Records the customer demographics and question in the CRM tool <br>
+Searches the Knowledge Base to find an article to answer the customers question<br>
+Attaches the article to the record<br>
+Emails the article to the customer<br>
+Reviews real time data <br>
+Performs caller authentication<br>
+Review dashboard/analytics information for telephony & CRM<br>
+Repeat caller: show contact record associated with incoming customer contact<br>
+Transfer/escalate a call<br>
 
-3. Manager, Leadership, & Miscellaneous
-Manage team performance metrics for telephony & CRM
-Review dashboard/analytics information for telephony & CRM 
-Review dashboard/analytics information for telephony & CRM 
-Create an article 
-Create a Knowledge Management report top 5 articles searched 
-Self Service Options 
-Manager & Agent communication feature 
-Customer Satisfaction Survey Distribution 
+3. Manager, Leadership, & Miscellaneous<br>
+Manage team performance metrics for telephony & CRM<br>
+Review dashboard/analytics information for telephony & CRM <br>
+Review dashboard/analytics information for telephony & CRM <br>
+Create an article <br>
+Create a Knowledge Management report top 5 articles searched <br>
+Self Service Options <br>
+Manager & Agent communication feature <br>
+Customer Satisfaction Survey Distribution <br>
 
 ## Local development
 
