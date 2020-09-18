@@ -1,0 +1,2 @@
+C:\Users\gst\source\repos\ivr-phone-tree-csharp-master\IVRPhoneTree.Web.Test\obj\Release\IVRPhoneTree.Web.Test.csprojAssemblyReference.cache
+C:\Users\gst\source\repos\ivr-phone-tree-csharp-master\IVRPhoneTree.Web.Test\obj\Release\IVRPhoneTree.Web.Test.csproj.CoreCompileInputs.cache
