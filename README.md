@@ -1,8 +1,8 @@
+# Office of Personnel Management (OPM) Retirement Services (RS) for Case Management using IVR Phone Tree as a Demo that is powered by Twilio - ASP.NET MVC and Microsoft App Dynamics
+
 <a href="https://www.twilio.com">
   <img src="https://static0.twilio.com/marketing/bundles/marketing/img/logos/wordmark-red.svg" alt="Twilio" width="250" />
 </a>
-
-# Office of Personnel Management (OPM) Retirement Services (RS) for Case Management using IVR Phone Tree as a Demo that is powered by Twilio - ASP.NET MVC and Microsoft App Dynamics
 
 [![Build status](https://ci.appveyor.com/api/projects/status/ktdh5pqmkc39ljng?svg=true)](https://ci.appveyor.com/project/TwilioDevEd/ivr-phone-tree-csharp)
 
