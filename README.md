@@ -18,7 +18,7 @@ Ability to transfer to Agent customers<br>
 Automatic call back feature <br>
 Natural Language Processing<br>
 
-2. Agent - Support Timely Response to Customer Questions<br>
+<b>2. Agent - Support Timely Response to Customer Questions</b><br>
 Answers the phone<br>
 Records the customer demographics and question in the CRM tool <br>
 Searches the Knowledge Base to find an article to answer the customers question<br>
@@ -30,7 +30,7 @@ Review dashboard/analytics information for telephony & CRM<br>
 Repeat caller: show contact record associated with incoming customer contact<br>
 Transfer/escalate a call<br>
 
-3. Manager, Leadership, & Miscellaneous<br>
+<b>3. Manager, Leadership, & Miscellaneous</b><br>
 Manage team performance metrics for telephony & CRM<br>
 Review dashboard/analytics information for telephony & CRM <br>
 Review dashboard/analytics information for telephony & CRM <br>
